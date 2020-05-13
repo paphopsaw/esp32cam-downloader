@@ -1,0 +1,6 @@
+.vscode
+env
+frames/*
+vids/*
+vid.mp4
+.DS_Store
